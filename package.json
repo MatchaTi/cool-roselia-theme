@@ -1,0 +1,23 @@
+{
+  "name": "morfonica-theme",
+  "displayName": "Morfonica Theme",
+  "publisher": "TehMatcha",
+  "description": "Morfonication",
+  "icon": "assets/image/morfonica-logo.png",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Morfonication",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Morfonication-color-theme.json"
+      }
+    ]
+  }
+}
