@@ -4,7 +4,7 @@
   "publisher": "TehMatcha",
   "description": "Morfonication",
   "icon": "assets/image/morfonica-logo.png",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.75.0"
   },
