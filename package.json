@@ -3,7 +3,7 @@
   "displayName": "Morfonica Theme",
   "publisher": "TehMatcha",
   "description": "Morfonication",
-  "icon": "assets/image/morfonica-logo.png",
+  "icon": "assets/images/morfonica-logo.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/MatchaTi/cool-kurata-theme"
