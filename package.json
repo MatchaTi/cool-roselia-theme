@@ -21,6 +21,11 @@
         "label": "Morfonication",
         "uiTheme": "vs-dark",
         "path": "./themes/Morfonication-color-theme.json"
+      },
+      {
+        "label": "Morfonication Kuro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Morfonication-color-theme-kuro.json"
       }
     ]
   }
