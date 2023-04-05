@@ -26,6 +26,11 @@
         "label": "Morfonication Kuro",
         "uiTheme": "vs-dark",
         "path": "./themes/Morfonication-color-theme-kuro.json"
+      },
+      {
+        "label": "Morfonication Roselia",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Morfonication-color-theme-roselia.json"
       }
     ]
   }
