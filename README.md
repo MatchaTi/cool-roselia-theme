@@ -8,13 +8,14 @@ Cool Morfonica Theme is has been designed by the who's like Morfonica Band.
 
 ## Preview
 
-- ### Morfonication
+- ### Morfonication - Pale Blue Noblesse
+
 <img src="assets/images/Morfonica-theme-1.JPG">
 <img src="assets/images/Morfonica-theme-2.JPG">
 
 <br>
 
-- ### Roselia
+- ### Roselia - Orbital Eden
 <img src="assets/images/Roselia-theme-1.JPG">
 <img src="assets/images/Roselia-theme-2.JPG">
 
