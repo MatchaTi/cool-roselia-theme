@@ -123,7 +123,7 @@
       "name": "Comment Markup Link",
       "scope": "comment markup.link",
       "settings": {
-        "foreground": "#eeeeee"
+        "foreground": "#bbbbbb"
       }
     },
     {
@@ -1623,7 +1623,7 @@
       "name": "comments",
       "scope": ["beginning.punctuation.definition.list.markdown.xi"],
       "settings": {
-        "foreground": "#eeeeee"
+        "foreground": "#bbbbbb"
       }
     },
     {
@@ -1695,7 +1695,7 @@
       "scope": "comment, punctuation.definition.comment",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#eeeeee"
+        "foreground": "#bbbbbb"
       }
     },
     {
