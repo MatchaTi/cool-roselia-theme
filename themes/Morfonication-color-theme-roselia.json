@@ -22,6 +22,13 @@
       }
     },
     {
+      "name": "Tag Punctuation",
+      "scope": "punctuation.definition.tag",
+      "settings": {
+        "foreground": "#a58cff"
+      }
+    },
+    {
       "name": "haskell variable generic-type",
       "scope": "variable.other.generic-type.haskell",
       "settings": {
@@ -1748,7 +1755,7 @@
     }
   ],
   "colors": {
-    "foreground": "#cccccc",
+    "foreground": "#a6b0ff",
     "focusBorder": "#545c7e33",
     "selection.background": "#515c7e40",
     "scrollbar.shadow": "#00000033",
@@ -1845,8 +1852,8 @@
     "editorIndentGuide.background": "#404040",
     "editorIndentGuide.activeBackground": "#707070",
     "editorRuler.foreground": "#5a5a5a",
-    "editorBracketMatch.background": "#0064001a",
-    "editorBracketMatch.border": "#888888",
+    "editorBracketMatch.background": "#a6b0ff",
+    "editorBracketMatch.border": "#a6b0ff",
     "editor.foldBackground": "#264f784d",
     "editorOverviewRuler.background": "#25252500",
     "editorOverviewRuler.border": "#7f7f7f4d",
@@ -1931,15 +1938,15 @@
     "notificationCenterHeader.foreground": "#cccccc",
     "notificationCenterHeader.background": "#101014",
     "notifications.border": "#101014",
-    "gitDecoration.addedResourceForeground": "#81b88b",
-    "gitDecoration.conflictingResourceForeground": "#6c6cc4",
-    "gitDecoration.deletedResourceForeground": "#c74e39",
-    "gitDecoration.ignoredResourceForeground": "#8c8c8c",
-    "gitDecoration.modifiedResourceForeground": "#e2c08d",
+    "gitDecoration.addedResourceForeground": "#28a745",
+    "gitDecoration.conflictingResourceForeground": "#e36209",
+    "gitDecoration.deletedResourceForeground": "#d73a49",
+    "gitDecoration.ignoredResourceForeground": "#959da5",
+    "gitDecoration.modifiedResourceForeground": "#005cc5",
     "gitDecoration.stageDeletedResourceForeground": "#c74e39",
     "gitDecoration.stageModifiedResourceForeground": "#e2c08d",
-    "gitDecoration.submoduleResourceForeground": "#8db9e2",
-    "gitDecoration.untrackedResourceForeground": "#73c991",
+    "gitDecoration.submoduleResourceForeground": "#005cc5",
+    "gitDecoration.untrackedResourceForeground": "#005cc5",
     "editorMarkerNavigation.background": "#2d2d30",
     "editorMarkerNavigationError.background": "#f48771",
     "editorMarkerNavigationWarning.background": "#cca700",

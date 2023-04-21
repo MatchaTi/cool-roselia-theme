@@ -22,6 +22,13 @@
       }
     },
     {
+      "name": "Tag Punctuation",
+      "scope": "punctuation.definition.tag",
+      "settings": {
+        "foreground": "#60a5fa"
+      }
+    },
+    {
       "name": "haskell variable generic-type",
       "scope": "variable.other.generic-type.haskell",
       "settings": {
@@ -205,7 +212,10 @@
     },
     {
       "name": "java type",
-      "scope": ["storage.type.annotation.java", "storage.type.object.array.java"],
+      "scope": [
+        "storage.type.annotation.java",
+        "storage.type.object.array.java"
+      ],
       "settings": {
         "foreground": "#93c5fd"
       }
@@ -622,7 +632,11 @@
     },
     {
       "name": "Class name",
-      "scope": ["entity.name.class", "variable.other.class.js", "variable.other.class.ts"],
+      "scope": [
+        "entity.name.class",
+        "variable.other.class.js",
+        "variable.other.class.ts"
+      ],
       "settings": {
         "foreground": "#93c5fd"
       }
@@ -1398,7 +1412,10 @@
     },
     {
       "name": "go operator",
-      "scope": ["keyword.operator.arithmetic.go", "keyword.operator.address.go"],
+      "scope": [
+        "keyword.operator.arithmetic.go",
+        "keyword.operator.address.go"
+      ],
       "settings": {
         "foreground": "#60a5fa"
       }
@@ -1926,15 +1943,15 @@
     "notificationCenterHeader.foreground": "#cccccc",
     "notificationCenterHeader.background": "#111827",
     "notifications.border": "#ffffff00",
-    "gitDecoration.addedResourceForeground": "#81b88b",
-    "gitDecoration.conflictingResourceForeground": "#6c6cc4",
-    "gitDecoration.deletedResourceForeground": "#c74e39",
-    "gitDecoration.ignoredResourceForeground": "#8c8c8c",
-    "gitDecoration.modifiedResourceForeground": "#e2c08d",
+    "gitDecoration.addedResourceForeground": "#28a745",
+    "gitDecoration.conflictingResourceForeground": "#e36209",
+    "gitDecoration.deletedResourceForeground": "#d73a49",
+    "gitDecoration.ignoredResourceForeground": "#959da5",
+    "gitDecoration.modifiedResourceForeground": "#005cc5",
     "gitDecoration.stageDeletedResourceForeground": "#c74e39",
     "gitDecoration.stageModifiedResourceForeground": "#e2c08d",
-    "gitDecoration.submoduleResourceForeground": "#8db9e2",
-    "gitDecoration.untrackedResourceForeground": "#73c991",
+    "gitDecoration.submoduleResourceForeground": "#005cc5",
+    "gitDecoration.untrackedResourceForeground": "#005cc5",
     "editorMarkerNavigation.background": "#2d2d30",
     "editorMarkerNavigationError.background": "#f48771",
     "editorMarkerNavigationWarning.background": "#cca700",
