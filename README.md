@@ -41,7 +41,6 @@
   "workbench.startupEditor": "none",
   "editor.fontLigatures": true,
   "editor.fontWeight": "600",
-  "editor.formatOnSave": true,
   "editor.minimap.enabled": false,
   "editor.lineHeight": 2.5,
   "window.zoomLevel": 1
