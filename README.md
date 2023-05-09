@@ -1,6 +1,4 @@
-# Cool Morfonica Theme
-
-Cool Morfonica Theme is has been designed by the who's like Morfonica Band.
+# Cool Roselia Theme
 
 ## Ayo Nonton Bang Dream!
 
@@ -8,18 +6,22 @@ Cool Morfonica Theme is has been designed by the who's like Morfonica Band.
 
 ## Preview
 
-- ### Morfonication - Pale Blue Noblesse
-
-<img src="assets/images/Morfonica-theme-1.JPG">
-<img src="assets/images/Morfonica-theme-2.JPG">
-
-<br>
-
 - ### Roselia - Orbital Eden
 
-<img src="assets/images/Roselia-theme-1.JPG">
-<img src="assets/images/Roselia-theme-2.JPG">
+<img src="assets/images/orbital-eden.jpg">
+<br>
+<br>
 
+- ### Roselia - Rozen
+
+<img src="assets/images/rozen.jpg">
+<br>
+<br>
+
+- ### Morfonica - Pale Blue Night
+
+<img src="assets/images/pale-blue-night.jpg">
+<br>
 <br>
 <br>
 
@@ -27,14 +29,14 @@ Cool Morfonica Theme is has been designed by the who's like Morfonica Band.
 
 ```json
 {
-  "workbench.colorTheme": "Morfonication",
+  "workbench.colorTheme": "Roselia Theme",
   "workbench.activityBar.visible": false,
   "workbench.editor.showTabs": false,
   "editor.lineNumbers": "relative",
   "editor.renderLineHighlight": "none",
   "editor.matchBrackets": "never",
   "breadcrumbs.enabled": false,
-  "editor.fontFamily": "Source Code Pro, Cartograph CF, JetBrainsMono NF",
+  "editor.fontFamily": "Hasklug NF, Source Code Pro, SauceCodePro NF, Cartograph CF, JetBrainsMono NF",
   "editor.language.colorizedBracketPairs": [[]],
   "workbench.startupEditor": "none",
   "editor.fontLigatures": true,
@@ -45,3 +47,12 @@ Cool Morfonica Theme is has been designed by the who's like Morfonica Band.
   "window.zoomLevel": 1
 }
 ```
+
+<br/>
+<br/>
+
+### Setelah meng-install Roselia Theme
+
+#### Nonchan:
+
+<img src="assets/images/bandori-nonchan.gif">

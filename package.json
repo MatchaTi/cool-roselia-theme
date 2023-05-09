@@ -1,12 +1,12 @@
 {
-  "name": "morfonica-theme",
-  "displayName": "Morfonica Theme",
+  "name": "roselia-theme",
+  "displayName": "Roselia Theme",
   "publisher": "TehMatcha",
-  "description": "Morfonication",
-  "icon": "assets/images/morfonica-logo.png",
+  "description": "Roselia",
+  "icon": "assets/images/roselia-logo.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MatchaTi/cool-morfonica-theme"
+    "url": "https://github.com/MatchaTi/cool-roselia-theme"
   },
   "version": "1.0.3",
   "engines": {
@@ -18,19 +18,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Morfonication",
+        "label": "Bandori Orbital Eden",
         "uiTheme": "vs-dark",
-        "path": "./themes/Morfonication-color-theme.json"
+        "path": "./themes/roselia-orbital-eden.json"
       },
       {
-        "label": "Morfonication Kuro",
+        "label": "Bandori Rozen",
         "uiTheme": "vs-dark",
-        "path": "./themes/Morfonication-color-theme-kuro.json"
+        "path": "./themes/roselia-rozen.json"
       },
       {
-        "label": "Morfonication Roselia",
+        "label": "Bandori Pale Blue Night",
         "uiTheme": "vs-dark",
-        "path": "./themes/Morfonication-color-theme-roselia.json"
+        "path": "./themes/morfonica-pale-blue-night.json"
       }
     ]
   }
