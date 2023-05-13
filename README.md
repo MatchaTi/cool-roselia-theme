@@ -52,6 +52,6 @@
 
 ### Setelah meng-install Roselia Theme
 
-#### Nonchan:
+### Nonchan:
 
 <img src="assets/images/bandori-nonchan.gif">

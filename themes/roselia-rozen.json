@@ -613,7 +613,7 @@
       "name": "Classes",
       "scope": "support.class, entity.name.type.class",
       "settings": {
-        "foreground": "#82d1c4"
+        "foreground": "#f472b6"
       }
     },
     {
@@ -1803,12 +1803,12 @@
     "menubar.selectionForeground": "#a2abc8",
     "menubar.selectionBackground": "#1a2137",
     "menu.foreground": "#929cbe",
-    "menu.background": "#0e121e",
+    "menu.background": "#1a2137",
     "menu.selectionForeground": "#f2f3f7",
     "menu.selectionBackground": "#2a365a73",
     "menu.selectionBorder": "#00000000",
     "menu.separatorBackground": "#080a11",
-    "menu.border": "#00000085",
+    "menu.border": "#00000000",
     "button.background": "#3a7fff75",
     "button.foreground": "#c2c8db",
     "button.hoverBackground": "#3a7fff90",
@@ -1922,7 +1922,7 @@
     "progressBar.background": "#0e70c0",
     "widget.shadow": "#0000005c",
     "editorWidget.foreground": "#a2abc8aa",
-    "editorWidget.background": "#0e121e",
+    "editorWidget.background": "#1a2137",
     "editorWidget.resizeBorder": "#5F5F5F",
     "pickerGroup.border": "#3f3f46",
     "pickerGroup.foreground": "#3794ff",
@@ -1957,8 +1957,8 @@
     "merge.incomingContentBackground": "#28384B",
     "merge.commonHeaderBackground": "#383838",
     "merge.commonContentBackground": "#282828",
-    "editorSuggestWidget.background": "#121726",
-    "editorSuggestWidget.border": "#080a11",
+    "editorSuggestWidget.background": "#1a2137",
+    "editorSuggestWidget.border": "#080a1100",
     "editorSuggestWidget.foreground": "#a2abc8",
     "editorSuggestWidget.highlightForeground": "#818cf8",
     "editorSuggestWidget.selectedBackground": "#2a365a73",
