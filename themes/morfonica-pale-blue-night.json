@@ -621,7 +621,7 @@
       "name": "Classes",
       "scope": "support.class, entity.name.type.class",
       "settings": {
-        "foreground": "#fef08a"
+        "foreground": "#FF8B39"
       }
     },
     {
