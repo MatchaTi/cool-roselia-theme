@@ -8,19 +8,19 @@
 
 - ### Roselia - Orbital Eden
 
-<img src="assets/images/orbital-eden.jpg">
+<img src="assets/images/orbital-eden.png">
 <br>
 <br>
 
 - ### Roselia - Rozen
 
-<img src="assets/images/rozen.jpg">
+<img src="assets/images/rozen.png">
 <br>
 <br>
 
 - ### Morfonica - Pale Blue Night
 
-<img src="assets/images/pale-blue-night.jpg">
+<img src="assets/images/pale-blue-night.png">
 <br>
 <br>
 <br>
@@ -34,16 +34,11 @@
   "workbench.editor.showTabs": false,
   "editor.lineNumbers": "relative",
   "editor.renderLineHighlight": "none",
-  "editor.matchBrackets": "never",
   "breadcrumbs.enabled": false,
-  "editor.fontFamily": "Hasklug NF, Source Code Pro, SauceCodePro NF, Cartograph CF, JetBrainsMono NF",
-  "editor.language.colorizedBracketPairs": [[]],
+  "editor.fontFamily": "Source Code Pro, JetBrainsMono NF",
   "workbench.startupEditor": "none",
   "editor.fontLigatures": true,
-  "editor.fontWeight": "600",
-  "editor.minimap.enabled": false,
-  "editor.lineHeight": 2.5,
-  "window.zoomLevel": 1
+  "editor.lineHeight": 2.5
 }
 ```
 
