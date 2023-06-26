@@ -31,6 +31,11 @@
         "label": "Bandori Pale Blue Night",
         "uiTheme": "vs-dark",
         "path": "./themes/morfonica-pale-blue-night.json"
+      },
+      {
+        "label": "Bandori Popipa",
+        "uiTheme": "vs-dark",
+        "path": "./themes/popipa.json"
       }
     ]
   }
