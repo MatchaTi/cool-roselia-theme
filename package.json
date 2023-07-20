@@ -36,6 +36,11 @@
         "label": "Bandori Popipa",
         "uiTheme": "vs-dark",
         "path": "./themes/popipa.json"
+      },
+      {
+        "label": "Bandori MyGO!!!!!",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mygo.json"
       }
     ]
   }
