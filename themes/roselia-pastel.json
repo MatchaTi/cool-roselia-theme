@@ -204,6 +204,20 @@
       }
     },
     {
+      "name": "js/ts variable.other.constant.property.js",
+      "scope": "variable.other.constant.property.js",
+      "settings": {
+        "foreground": "#96CDFB"
+      }
+    },
+    {
+      "name": "js/ts variable.other.property.js",
+      "scope": "variable.other.property.js",
+      "settings": {
+        "foreground": "#B7BDF8"
+      }
+    },
+    {
       "name": "java type",
       "scope": [
         "storage.type.annotation.java",
@@ -1820,8 +1834,8 @@
     "editor.background": "#232634",
     "editor.foreground": "#d9e0ee",
     "editorLineNumber.foreground": "#3e4058",
-    "editorCursor.foreground": "#ffffff",
-    "editorCursor.background": "#ddb6f2",
+    "editorCursor.foreground": "#ddb6f2",
+    "editorCursor.background": "#ffffff",
     "editor.selectionBackground": "#ddb6f250",
     "editor.inactiveSelectionBackground": "#ddb6f240",
     "editorWhitespace.foreground": "#ffffff29",
@@ -1869,7 +1883,7 @@
     "editorGroup.border": "#292c3c",
     "diffEditor.insertedTextBackground": "#9bb95533",
     "diffEditor.removedTextBackground": "#ff000033",
-    "diffEditor.border": "#444444",
+    "diffEditor.border": "#292c3c",
     "panel.background": "#232634",
     "panel.border": "#292c3c",
     "panelTitle.activeBorder": "#ffffff",
@@ -1950,11 +1964,11 @@
     "merge.incomingContentBackground": "#4a7594",
     "merge.commonHeaderBackground": "#383838",
     "merge.commonContentBackground": "#282828",
-    "editorSuggestWidget.background": "#252526",
-    "editorSuggestWidget.border": "#454545",
-    "editorSuggestWidget.foreground": "#d4d4d4",
-    "editorSuggestWidget.highlightForeground": "#0097fb",
-    "editorSuggestWidget.selectedBackground": "#062f4a",
+    "editorSuggestWidget.background": "#292c3c",
+    "editorSuggestWidget.border": "#303446",
+    "editorSuggestWidget.foreground": "#d9e0ee",
+    "editorSuggestWidget.highlightForeground": "#ddb6f2",
+    "editorSuggestWidget.selectedBackground": "#303446",
     "editorHoverWidget.foreground": "#d9e0ee",
     "editorHoverWidget.background": "#292c3c",
     "editorHoverWidget.border": "#303446",
