@@ -4,40 +4,6 @@
 
 <br>
 
-## Preview
-
-- ### Roselia - Orbital Eden
-
-<img src="assets/images/orbital-eden.png">
-<br>
-<br>
-
-- ### Roselia - Rozen
-
-<img src="assets/images/rozen.png">
-<br>
-<br>
-
-- ### Morfonica - Pale Blue Night
-
-<img src="assets/images/pale-blue-night.png">
-<br>
-<br>
-<br>
-
-- ### Poppin Party
-
-<img src="assets/images/popipa.png">
-<br>
-<br>
-<br>
-
-- ### MyGO!!!!!
-
-<img src="assets/images/mygo.png">
-<br>
-<br>
-<br>
 ## My VS Code Set Up
 
 ```json

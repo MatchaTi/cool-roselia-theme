@@ -18,24 +18,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Bandori Orbital Eden",
+        "label": "Bandori Roselia Orbital Eden",
         "uiTheme": "vs-dark",
-        "path": "./themes/roselia-orbital-eden.json"
-      },
-      {
-        "label": "Bandori Rozen",
-        "uiTheme": "vs-dark",
-        "path": "./themes/roselia-rozen.json"
-      },
-      {
-        "label": "Bandori Pale Blue Night",
-        "uiTheme": "vs-dark",
-        "path": "./themes/morfonica-pale-blue-night.json"
-      },
-      {
-        "label": "Bandori Popipa",
-        "uiTheme": "vs-dark",
-        "path": "./themes/popipa.json"
+        "path": "./themes/roselia-pastel.json"
       },
       {
         "label": "Bandori MyGO!!!!!",
