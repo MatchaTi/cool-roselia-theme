@@ -26,6 +26,11 @@
         "label": "Bandori MyGO!!!!!",
         "uiTheme": "vs-dark",
         "path": "./themes/mygo.json"
+      },
+      {
+        "label": "Kuro Matchanaa",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kuroMatchanaa.json"
       }
     ]
   }
