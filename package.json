@@ -28,9 +28,14 @@
         "path": "./themes/mygo.json"
       },
       {
-        "label": "Kuro Matchanaa",
+        "label": "Bandori Matchanaa",
         "uiTheme": "vs-dark",
-        "path": "./themes/kuromatchanaa.json"
+        "path": "./themes/matchanaa.json"
+      },
+      {
+        "label": "Bandori Matchati",
+        "uiTheme": "vs-dark",
+        "path": "./themes/matchati.json"
       }
     ]
   }
