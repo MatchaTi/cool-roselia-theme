@@ -36,6 +36,11 @@
         "label": "Bandori Matchati",
         "uiTheme": "vs-dark",
         "path": "./themes/matchati.json"
+      },
+      {
+        "label": "Bandori Roselia Rozen",
+        "uiTheme": "vs-dark",
+        "path": "./themes/roselia-rozen.json"
       }
     ]
   }
